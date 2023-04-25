@@ -3,4 +3,4 @@ Python Solutions for ICS4U
 
 ## Files
 
-collatz.py :: The solutions for the collatz sequence using memoization
+[collatz.py](https://github.com/mrparkyrdsb/grade12solutions/blob/main/collatz.py) :: The solutions for the collatz sequence using memoization
